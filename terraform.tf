@@ -1,7 +1,7 @@
 terraform {
-
+/*
   cloud {
-    organization = "organization-name"
+    organization = "fredtest"
 
     workspaces {
       name = "learn-terraform-cloud"
@@ -14,6 +14,6 @@ terraform {
       version = "~> 5.31.0"
     }
   }
-
+*/
   required_version = "~> 1.2"
 }
